@@ -1,12 +1,11 @@
-![Banner Utama CrunchShift](https://placehold.co/1200x450/0a1680/fcfdff?text=SLOT+BANNER+UTAMA+CRUNCHSHIFT)
+<img width="1366" height="470" alt="image" src="https://github.com/user-attachments/assets/39744b74-a830-41f1-a171-74f189b2a215" />
+
 
 # ⏱️ CrunchShift
 ## Sistem Manajemen Aktivitas, Absensi, dan Apresiasi Karyawan Berbasis Shift dengan Reward Points
 
 ## **SDGs:** Decent Work and Economic Growth (SDG 8)
 ## **Fokus Area:** Structured Shift Coordination, Transparent Attendance, and Fair Employee Appreciation
-
-![Sub-Banner Proyek CrunchShift](https://placehold.co/1200x350/93b2f8/0a1680?text=SLOT+SUB-BANNER+PROYEK+KELOMPOK+11)
 
 ---
 
